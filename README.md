@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student who is highly motivated on the field of quantum information theory.
+I'm a student who is highly motivated in the field of quantum information theory.
 
 <!--
 **ericedu1/ericedu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
