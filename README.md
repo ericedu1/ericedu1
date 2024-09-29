@@ -1,5 +1,5 @@
 ### Hi there 👋
-Review some quantum algorithm papers in gists.
+Review some quantum algorithm papers in [gists](https://gist.github.com/ericedu1).
 
 Contact me with email if there is somethings wrong.
 
