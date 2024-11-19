@@ -1,7 +1,7 @@
 ### Hi there 👋
-Review some quantum algorithm papers in [gists](https://gist.github.com/ericedu1) with pennylane and pytorch.
+At [my gist](https://gist.github.com/ericedu1), I'm currently uploading some notebooks which reviews some interesting quantum algorithms based on the Pennylane and Pytorch.
 
-Contact me with email if there is somethings wrong.
+Contact me with email below.
 
 email : ericedu1@gmail.com
 <!--
